@@ -1,0 +1,97 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "Europe/Paris",
+  "ssku": "bigdata",
+  "nSchedules": 1,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": false,
+    "advancedDetails": [
+      {
+        "activity": "Tutorials",
+        "duration": 480,
+        "periods": 2
+      },
+      {
+        "activity": "Lecture",
+        "duration": 960,
+        "periods": 2
+      },
+      {
+        "activity": "Exam",
+        "duration": 120,
+        "periods": 2
+      }
+    ]
+  },
+  "teacherIds" : [
+    1,4,5
+  ],
+  "dates" : [
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-06T13:00:00",
+      "endTime" : "2021-09-06T15:00:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-09-08T14:00:00",
+      "endTime" : "2021-09-08T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-10T14:00:00",
+      "endTime" : "2021-09-10T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-13T13:00:00",
+      "endTime" : "2021-09-13T15:00:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-09-15T14:00:00",
+      "endTime" : "2021-09-15T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-17T14:00:00",
+      "endTime" : "2021-09-17T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-20T13:00:00",
+      "endTime" : "2021-09-20T15:00:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-09-22T14:00:00",
+      "endTime" : "2021-09-22T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-24T14:00:00",
+      "endTime" : "2021-09-24T16:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-09-27T13:00:00",
+      "endTime" : "2021-09-27T15:00:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-09-29T14:00:00",
+      "endTime" : "2021-09-29T16:00:00"
+    },
+    {
+      "activity" : "Exam",
+      "startTime" : "2021-10-01T10:00:00",
+      "endTime" : "2021-10-01T12:00:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-10-01T14:00:00",
+      "endTime" : "2021-10-01T16:00:00"
+    }
+  ]
+}

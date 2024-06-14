@@ -1,0 +1,64 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "Europe/Paris",
+  "ssku": "rebecca young -- bigdata",
+  "nSchedules": 3,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": false,
+    "advancedDetails": [
+      {
+        "activity": "Lecture",
+        "duration": 120,
+        "periods": 2
+      },
+      {
+        "activity": "Tutorials",
+        "duration": 120,
+        "periods": 2
+      },
+      {
+        "activity": "Exam",
+        "duration": 60,
+        "periods": 1
+      }
+    ]
+  },
+  "dates" : [
+    {
+      "startTime" : "2021-07-05T09:00:00",
+      "endTime" : "2021-07-05T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-09T09:00:00",
+      "endTime" : "2021-07-09T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-12T09:00:00",
+      "endTime" : "2021-07-12T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-16T09:00:00",
+      "endTime" : "2021-07-16T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-19T09:00:00",
+      "endTime" : "2021-07-19T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-23T09:00:00",
+      "endTime" : "2021-07-23T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-26T09:00:00",
+      "endTime" : "2021-07-26T18:00:00"
+    },
+    {
+      "startTime" : "2021-07-30T09:00:00",
+      "endTime" : "2021-07-30T18:00:00"
+    }
+  ],
+  "teacherIds" : [
+    99449
+  ]
+}

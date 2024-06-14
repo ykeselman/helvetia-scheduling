@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210518T120000Z
+DTEND:20210518T200000Z
+DTSTAMP:20210518T094120Z
+ORGANIZER;CN=Joshua Smith:mailto:jsmith@cadrenglish.com
+UID:5htn0um9vfknekvqk4n5p8rrkj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kj@helvetiaeducation.ch;X-NUM-GUESTS=0:mailto:kj@helvetiaeducation.
+ ch
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Joshua Smith;X-NUM-GUESTS=0:mailto:jsmith@cadrenglish.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=scheduling@helvetiaeducation.ch;X-NUM-GUESTS=0:mailto:scheduling@he
+ lvetiaeducation.ch
+X-MICROSOFT-CDO-OWNERAPPTID:-958134089
+CREATED:20210518T094056Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/jsq-hyen-
+ vwj\n(US) +1 347-973-3815 PIN: 414162921#\n\nView your event at https://cal
+ endar.google.com/calendar/event?action=VIEW&eid=NWh0bjB1bTl2ZmtuZWt2cWs0bjV
+ wOHJya2ogc2NoZWR1bGluZ0BoZWx2ZXRpYWVkdWNhdGlvbi5jaA&tok=MjIjanNtaXRoQGNhZHJ
+ lbmdsaXNoLmNvbTM5YzI2OTI1NWIyZjFkYzY5MzdmMTRmYzA0ZGQ4NjQ5ZGYzNDc5Yzc&ctz=Eu
+ rope%2FParis&hl=en&es=0.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210518T094119Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Available
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "Europe/Paris",
+  "ssku": "bigdata",
+  "nSchedules": 3,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": false,
+    "advancedDetails": [
+      {
+        "activity": "Lecture",
+        "duration": 600,
+        "periods": 2
+      },
+      {
+        "activity": "Tutorials",
+        "duration": 600,
+        "periods": 2
+      },
+      {
+        "activity": "Exam",
+        "duration": 120,
+        "periods": 2
+      }
+    ]
+  },
+  "teacherIds" : [
+    4,5
+  ],
+  "dates" : [
+    {
+      "startTime" : "2021-08-02T09:00:00-05:00",
+      "endTime" : "2021-08-02T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-04T09:00:00-05:00",
+      "endTime" : "2021-08-04T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-06T09:00:00-05:00",
+      "endTime" : "2021-08-06T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-09T09:00:00-05:00",
+      "endTime" : "2021-08-09T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-11T09:00:00-05:00",
+      "endTime" : "2021-08-11T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-13T09:00:00-05:00",
+      "endTime" : "2021-08-13T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-16T09:00:00-05:00",
+      "endTime" : "2021-08-16T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-18T09:00:00-05:00",
+      "endTime" : "2021-08-18T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-20T09:00:00-05:00",
+      "endTime" : "2021-08-20T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-23T09:00:00-05:00",
+      "endTime" : "2021-08-23T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-25T09:00:00-05:00",
+      "endTime" : "2021-08-25T17:00:00-05:00"
+    },
+    {
+      "startTime" : "2021-08-27T09:00:00-05:00",
+      "endTime" : "2021-08-27T17:00:00-05:00"
+    }
+  ]
+}

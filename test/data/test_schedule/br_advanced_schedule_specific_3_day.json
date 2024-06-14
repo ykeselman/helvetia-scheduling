@@ -1,0 +1,57 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "Europe/Paris",
+  "ssku": "bigdata",
+  "nSchedules": 1,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": true,
+    "advancedDetails": [
+      {
+        "activity": "Tutorials",
+        "duration": 240,
+        "periods": 2
+      },
+      {
+        "activity": "Lecture",
+        "duration": 360,
+        "periods": 3
+      },
+      {
+        "activity": "Exam",
+        "duration": 120,
+        "periods": 2
+      }
+    ]
+  },
+  "dates" : [
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-06-16T09:00:00-05:00",
+      "endTime" : "2021-06-16T12:00:00-05:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-06-16T14:00:00-05:00",
+      "endTime" : "2021-06-16T16:00:00-05:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-06-17T10:00:00-05:00",
+      "endTime" : "2021-06-17T13:00:00-05:00"
+    },
+    {
+      "activity" : "Tutorials",
+      "startTime" : "2021-06-17T14:00:00-05:00",
+      "endTime" : "2021-06-17T16:00:00-05:00"
+    },
+    {
+      "activity" : "Exam",
+      "startTime" : "2021-06-18T09:00:00-05:00",
+      "endTime" : "2021-06-18T11:00:00-05:00"
+    }
+  ],
+  "teacherIds" : [
+    3,5,6
+  ]
+}

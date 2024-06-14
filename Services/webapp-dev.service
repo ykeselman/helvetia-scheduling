@@ -1,0 +1,18 @@
+[Unit]
+Description=The dev webapp service.
+After=network.target
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/home/yakov/prod-helvetia/webapp-dev.sh
+WorkingDirectory=/home/yakov/prod-helvetia
+Restart=always
+RestartSec=5
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=%n
+User=yakov
+

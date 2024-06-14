@@ -1,0 +1,50 @@
+{
+  "dates": [
+    {
+      "activity": "Lecture",
+      "endTime": "2021-07-29T12:30:00+02:00",
+      "startTime": "2021-07-29T10:30:00+02:00"
+    },
+    {
+      "activity": "Tutorials",
+      "endTime": "2021-07-29T14:30:00+02:00",
+      "startTime": "2021-07-29T12:30:00+02:00"
+    },
+    {
+      "activity": "Lecture",
+      "endTime": "2021-08-02T12:30:00+02:00",
+      "startTime": "2021-08-02T10:30:00+02:00"
+    },
+    {
+      "activity": "Tutorials",
+      "endTime": "2021-08-02T14:30:00+02:00",
+      "startTime": "2021-08-02T12:30:00+02:00"
+    },
+    {
+      "activity": "Lecture",
+      "endTime": "2021-08-03T12:30:00+02:00",
+      "startTime": "2021-08-03T10:30:00+02:00"
+    },
+    {
+      "activity": "Seminar",
+      "endTime": "2021-08-03T14:30:00+02:00",
+      "startTime": "2021-08-03T12:30:00+02:00"
+    },
+    {
+      "activity": "Lecture",
+      "endTime": "2021-08-04T12:30:00+02:00",
+      "startTime": "2021-08-04T10:30:00+02:00"
+    },
+    {
+      "activity": "Exam",
+      "endTime": "2021-08-04T14:30:00+02:00",
+      "startTime": "2021-08-04T12:30:00+02:00"
+    }
+  ],
+  "invites": [
+    {
+      "cancel": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:HEG Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:CANCEL\nBEGIN:VEVENT\nSUMMARY:Lecture **cancelled**\nDTSTART;VALUE=DATE-TIME:20210729T103000\nDTEND;VALUE=DATE-TIME:20210729T143000\nDTSTAMP;VALUE=DATE-TIME:20210621T143619\nUID:20210729T103000:20210729T143000:test-scheduling:test-scheduling\nSEQUENCE:1\nRRULE:FREQ=WEEKLY;COUNT=1;BYDAY=MO,TU,WE,TH\nATTENDEE;CN=test-scheduling@helvetiaconnect.ch;PARTSTAT=NEEDS-ACTION;ROLE=\n REQ-PARTICIPANT;RSVP=TRUE:mailto:test-scheduling@helvetiaconnect.ch\nDESCRIPTION:\nLOCATION:\nORGANIZER;CN=\"Test Helvetia Connect\";EMAIL=test-scheduling@helvetiaconnect\n .ch;PARTSTAT=ACCEPTED;ROLE=CHAIR:mailto:test-scheduling@helvetiaconnect.ch\nTRANSP:OPAQUE\nEND:VEVENT\nEND:VCALENDAR",
+      "request": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:HEG Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:REQUEST\nBEGIN:VEVENT\nSUMMARY:Lecture\nDTSTART;VALUE=DATE-TIME:20210729T103000\nDTEND;VALUE=DATE-TIME:20210729T143000\nDTSTAMP;VALUE=DATE-TIME:20210621T143619\nUID:20210729T103000:20210729T143000:test-scheduling:test-scheduling\nSEQUENCE:0\nRRULE:FREQ=WEEKLY;COUNT=1;BYDAY=MO,TU,WE,TH\nATTENDEE;CN=test-scheduling@helvetiaconnect.ch;PARTSTAT=NEEDS-ACTION;ROLE=\n REQ-PARTICIPANT;RSVP=TRUE:mailto:test-scheduling@helvetiaconnect.ch\nDESCRIPTION:\nLOCATION:\nORGANIZER;CN=\"Test Helvetia Connect\";EMAIL=test-scheduling@helvetiaconnect\n .ch;PARTSTAT=ACCEPTED;ROLE=CHAIR:mailto:test-scheduling@helvetiaconnect.ch\nTRANSP:OPAQUE\nEND:VEVENT\nEND:VCALENDAR"
+    }
+  ]
+}

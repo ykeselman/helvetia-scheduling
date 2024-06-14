@@ -1,0 +1,52 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "America/Chicago",
+  "ssku": "bigdata",
+  "nSchedules": 3,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": true,
+    "advancedDetails": [
+      {
+        "activity": "Lecture",
+        "duration": 360,
+        "periods": 2
+      },
+      {
+        "activity": "Tutorials",
+        "duration": 240,
+        "periods": 2
+      },
+      {
+        "activity": "Exam",
+        "duration": 120,
+        "periods": 2
+      }
+    ]
+  },
+  "dates": [
+    {
+      "startTime": "2021-07-26T09:00:00",
+      "endTime": "2021-07-26T17:00:00"
+    },
+    {
+      "startTime": "2021-07-27T09:00:00",
+      "endTime": "2021-07-27T17:00:00"
+    },
+    {
+      "startTime": "2021-07-28T09:00:00",
+      "endTime": "2021-07-28T17:00:00"
+    },
+    {
+      "startTime": "2021-07-29T09:00:00",
+      "endTime": "2021-07-29T17:00:00"
+    },
+    {
+      "startTime": "2021-07-30T09:00:00",
+      "endTime": "2021-07-30T17:00:00"
+    }
+  ],
+  "teacherIds": [
+    5
+  ]
+}

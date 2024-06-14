@@ -1,0 +1,47 @@
+{
+  "instituteName": "Paris",
+  "timeZone": "Europe/Paris",
+  "ssku": "bigdata",
+  "nSchedules": 1,
+  "classDefinition": {
+    "periodDuration": 60,
+    "intensiveCourse": true,
+    "advancedDetails": [
+      {
+        "activity": "Lecture",
+        "duration": 540,
+        "periods": 3
+      },
+      {
+        "activity": "Exam",
+        "duration": 120,
+        "periods": 2
+      }
+    ]
+  },
+  "dates" : [
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-07-05T10:00:00-05:00",
+      "endTime" : "2021-07-05T13:00:00-05:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-07-12T10:00:00-05:00",
+      "endTime" : "2021-07-12T13:00:00-05:00"
+    },
+    {
+      "activity" : "Lecture",
+      "startTime" : "2021-07-19T10:00:00-05:00",
+      "endTime" : "2021-07-19T13:00:00-05:00"
+    },
+    {
+      "activity" : "Exam",
+      "startTime" : "2021-07-20T10:00:00-05:00",
+      "endTime" : "2021-07-20T12:00:00-05:00"
+    }
+  ],
+  "teacherIds" : [
+    2,3,4,6
+  ]
+}
